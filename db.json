@@ -6,6 +6,6 @@
   ],
   "companies": [
     { "id": "1", "name": "Apple", "description": "Phone, laptop and expensive products" },
-    { "id": "2", "name": "Google", "age": "Search engine and optimization company" }
+    { "id": "2", "name": "Google", "description": "Search engine and optimization company" }
   ]
 }
